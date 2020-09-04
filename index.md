@@ -4,24 +4,20 @@ You can use the [editor on GitHub](https://github.com/RegionalClimateGroup/rcg.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About the Regional Climate Group
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Regional Climate Group (RCG) studies climate at regional-to-global scales. Our research is based on instrumental data, outputs from Global/Regional Climate Models and paleoclimate proxy records.
 
-```markdown
-Syntax highlighted code block
+RCG has a unique profile combining modern- and paleo-climate studies within the Swedish climate research community and an international reputation in the fields of regional climate dynamics and climate change. RCG represents a successful research environment, with a high scientific production rate, close connections with international and national research communities, modern climate research tools and GIS competences.
 
-# Header 1
-## Header 2
-### Header 3
+Major research topics:
 
-- Bulleted
-- List
+- Climate system dynamics with a focus on climate changes in Eurasia
+- Paleo-hydroclimate reconstructions and climate change impacts
+- Ocean-ice-atmosphere interactions
+- Statistical and dynamical downscaling
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
